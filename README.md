@@ -31,8 +31,9 @@ It floats as a transparent overlay on your screen with realistic swimming fish, 
 ---
 
 ## How to Run
-
-### Requirements
+- You can just download the file desktop-habitat inside APP folder and just run it
+  
+### Requirements to adjust or develop
 - macOS 14.0 or later
 - Xcode 15+
 
