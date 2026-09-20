@@ -1,0 +1,16 @@
+{
+  "source": "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 16
+        }
+      }
+    ]
+  },
+  "version": 1
+}

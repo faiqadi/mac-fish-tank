@@ -1,0 +1,23 @@
+{
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/AquariumScene.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.dia",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.swiftdeps"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/Effects/CausticsEffect.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.dia",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.swiftdeps"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/Effects/ParticleEffects.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.dia",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.swiftdeps"
+  }
+}

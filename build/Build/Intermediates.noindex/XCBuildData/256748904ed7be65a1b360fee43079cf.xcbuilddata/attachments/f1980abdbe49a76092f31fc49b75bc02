@@ -1,0 +1,179 @@
+{
+  "" : {
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop-habitat-primary.dia",
+    "emit-module-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop-habitat-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop-habitat-primary-emit-module.dia",
+    "pch" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop-habitat-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop-habitat-primary.swiftdeps"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/AppDelegate.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/AquariumConfig.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumConfig.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumConfig.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumConfig.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumConfig.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumConfig.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumConfig.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumConfig.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumConfig~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/ContentView.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/MenuBarController.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/MenuBarController.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/MenuBarController.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/MenuBarController.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/MenuBarController.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/MenuBarController.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/MenuBarController.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/MenuBarController.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/MenuBarController~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/AquariumScene.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/AquariumScene~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/BubbleNode.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/BubbleNode.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/BubbleNode.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/BubbleNode.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/BubbleNode.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/BubbleNode.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/BubbleNode.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/BubbleNode.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/BubbleNode~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/DecorationNode.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DecorationNode.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DecorationNode.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DecorationNode.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DecorationNode.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DecorationNode.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DecorationNode.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DecorationNode.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DecorationNode~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/DolphinNode.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DolphinNode.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DolphinNode.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DolphinNode.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DolphinNode.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DolphinNode.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DolphinNode.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DolphinNode.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/DolphinNode~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/Effects/CausticsEffect.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/CausticsEffect~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/Effects/ParticleEffects.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/ParticleEffects~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/FishNode.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FishNode.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FishNode.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FishNode.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FishNode.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FishNode.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FishNode.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FishNode.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FishNode~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/FoodPelletNode.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FoodPelletNode.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FoodPelletNode.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FoodPelletNode.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FoodPelletNode.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FoodPelletNode.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FoodPelletNode.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FoodPelletNode.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/FoodPelletNode~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/PlantNode.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/PlantNode.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/PlantNode.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/PlantNode.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/PlantNode.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/PlantNode.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/PlantNode.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/PlantNode.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/PlantNode~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/TurtleNode.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/TurtleNode.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/TurtleNode.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/TurtleNode.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/TurtleNode.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/TurtleNode.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/TurtleNode.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/TurtleNode.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/TurtleNode~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/Scene/WhaleNode.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/WhaleNode.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/WhaleNode.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/WhaleNode.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/WhaleNode.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/WhaleNode.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/WhaleNode.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/WhaleNode.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/WhaleNode~partial.swiftmodule"
+  },
+  "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/desktop-habitat/desktop_habitatApp.swift" : {
+    "const-values" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop_habitatApp.swiftconstvalues",
+    "dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop_habitatApp.d",
+    "diagnostics" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop_habitatApp.dia",
+    "index-unit-output-path" : "/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop_habitatApp.o",
+    "llvm-bc" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop_habitatApp.bc",
+    "object" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop_habitatApp.o",
+    "swift-dependencies" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop_habitatApp.swiftdeps",
+    "swiftmodule" : "/Users/dikshatek/Desktop/mac-desktop-habitat/desktop-habitat/build/Build/Intermediates.noindex/desktop-habitat.build/Debug/desktop-habitat.build/Objects-normal/arm64/desktop_habitatApp~partial.swiftmodule"
+  }
+}
