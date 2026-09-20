@@ -4,6 +4,8 @@ A lightweight, interactive desktop aquarium app for macOS built with Swift and S
 
 It floats as a transparent overlay on your screen with realistic swimming fish, sea turtles, an occasional visiting whale, and a dolphin that drops daily motivational quotes.
 
+![Desktop Aquarium Preview](sample.png)
+
 ---
 
 ## Features
